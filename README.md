@@ -6,9 +6,9 @@ Use this project, which has already yarn configured and the table of users imple
 
 #### Specifications
 
-- Add the option to fetch each user posts on [jsonplaceholder](https://jsonplaceholder.typicode.com) and display them with their user.
+- Add the option to fetch each user albums on [jsonplaceholder](https://jsonplaceholder.typicode.com) and display them with their user.
 - The name of each user should be editable, and should send the update to the server (note that the update is faked on jsonplaceholder).
-- Display the number of users living in an Appt, and in a Suite (field address.suite)
+- Display the number of photos in an album belonging to a user
 
 ##### Rules
 
